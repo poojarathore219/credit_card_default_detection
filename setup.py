@@ -8,9 +8,9 @@ __version__ = "0.0.0"
 
 
 REPO_NAME = "Credit-Card-Default-Prediction-Project-Pwskills"
-AUTHOR_USER_NAME = "bhushanchopade"
+AUTHOR_USER_NAME = "PoojaRathore"
 SRC_REPO = "ccdp"
-AUTHOR_EMAIL = "chopadebhush@gmail.com"
+AUTHOR_EMAIL = "poojarathore219@gmail.com"
 
 setuptools.setup(
     name = SRC_REPO,
